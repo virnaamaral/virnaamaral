@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Brazil 🇧🇷</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=virnaamaral" alt="virnaamaral" /></a> </p>
-<br>
+
 - 🔭 I’m currently working on [PETracker!](https://github.com/bela975/PETracker)
 
 - 🌱 I’m currently learning **C, Java, HTML, CSS, and Django**
