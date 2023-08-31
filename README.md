@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [PETracker!](https://github.com/bela975/PETracker)
 
-- 🌱 I’m currently learning **C, Java, HTML, CSS, and Django**
+- 🌱 I’m currently learning **C, Java, and stuff about Operating Systems!**
 
 - 💬 Ask me about **C, Django and Python!**
 
