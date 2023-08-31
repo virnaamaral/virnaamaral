@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Virna!</h1>
 <h3 align="center">A passionate developer from Brazil 🇧🇷</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=virnaamaral" alt="virnaamaral" /></a> </p>
+
+Hi! I'm a computer science undergraduate student at C.E.S.A.R. School, currently in my 3rd semester! 😀 Let's talk a bit about how my passion for technology and programming began. Since childhood, I've been fascinated by how technology not only transforms our lives but also simplifies, accelerates, and enhances them. I've always been curious about how these things work. In high school, I participated in a Robotics elective course where I used Lego Robotics Kits to create engaging projects like a trumpet-playing robot and line-following robots.
+
+During my 1st semester at CESAR, I became a member of Garagem, a research and maker lab. There, my friends and I developed CRABEAT, a crab-like robot that utilizes Arduino to play 'mangue bit' songs. With the help of proximity sensors and programming, it can adjust volume, skip or backtrack in songs, and even modify the playback speed. As a dedicated student, I'm constantly driven to explore new areas of learning, turning my ideas into reality to witness the outcomes. In the world of technology, I find a boundless source of knowledge, and this perpetual opportunity for discovery fills me with more excitement than anything ever has before!
+<br>
+<br>
 
 - 🔭 I’m currently working on [PETracker!](https://github.com/bela975/PETracker)
 
@@ -11,7 +16,7 @@
 
 - 📫 How to reach me: **vfpa@cesar.school**
 
-- ⚡ Fun fact: **I'm a musician (I can play Eletric and Acoustic Guitar :p)**
+- ⚡ Fun fact: **I'm a musician (I can play Electric and Acoustic Guitar :p)**
 
 <br>
 <h3 align="left">Connect with me:</h3>
@@ -34,8 +39,12 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=virnaamaral&show_icons=true&locale=en&layout=compact" alt="virnaamaral" /></p>
+<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=virnaamaral&show_icons=true&locale=en" alt="virnaamaral" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=virnaamaral&" alt="virnaamaral" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=virnaamaral&show_icons=true&locale=en&layout=compact" alt="virnaamaral" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=virnaamaral" alt="virnaamaral" /></a> </p>
