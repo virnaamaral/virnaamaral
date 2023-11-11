@@ -8,7 +8,7 @@ During my 1st semester at CESAR, I became a member of Garagem, a research and ma
 <br>
 <br>
 
-- 🔭 I’m currently working on [PETracker!](https://github.com/bela975/PETracker)
+- 🔭 I’m currently working on [NOREnigma](https://github.com/virnaamaral/aed-c-game) and [LUMI!](https://github.com/paulo-campos-57/Projetos3)
 
 - 🌱 I’m currently learning **C, Java, and stuff about Operating Systems!**
 
