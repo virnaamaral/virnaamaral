@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Virna!</h1>
 <h3 align="center">A passionate developer from Brazil 🇧🇷</h3>
 
+Hi! I'm a 5th-semester CS undergrad @ CESAR School. I'm a member of GARAGino, a research group that focuses on physical computing. In GARAGino, we create and design robots for local and national competitions, such as Robocore Experience at Campus Party Brasil, Campus Party Nordeste, and PEBotz. I really enjoy working with people on a daily basis and being part of a team. Because of this, I've been a college monitor for 2 semesters - Imperative and Functional Programming (2023.2) and Data Structures and Algorithms (2024.1). I've also been involved with LOVELACES (LÓgica de Vivência para ELAs na CESAR School), which aims to teach basic programming logic using Python to young women in high school and to inspire and motivate more women to pursue careers in IT.
 
-Hi! I'm a computer science undergraduate student at C.E.S.A.R. School, currently on 5th semester! 😀 Let's briefly talk about how my passion for technology and programming began. Since childhood, I've been fascinated by how technology transforms our lives and simplifies, accelerates, and enhances them. I've always been curious about how these things work. In high school, I participated in a Robotics elective course where I used Lego Robotics Kits to create engaging projects like a trumpet-playing robot and follow-line robots.
-
-During my 1st semester at CESAR, I became a member of GARAGino, a research and maker lab in my college. My friends and I developed CRABEAT, a crab-like robot that uses Arduino to play 'mangue beat' songs. With the help of proximity sensors and programming, it can adjust volume, skip or backtrack in songs, and even modify the playback speed. As a dedicated student, I'm constantly driven to explore new areas of learning, turning my ideas into reality to witness the outcomes. In the world of technology, I find a boundless source of knowledge, and this perpetual opportunity for discovery fills me with more excitement than anything ever has before!
 <br>
 <br>
 
