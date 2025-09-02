@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Virna!</h1>
 <h3 align="center">A passionate developer from Brazil 🇧🇷</h3>
 
-Hi! I'm a 5th-semester CS undergrad @ CESAR School. I'm a member of GARAGino, a research group that focuses on physical computing. In GARAGino, we create and design robots for local and national competitions, such as Robocore Experience at Campus Party Brasil, Campus Party Nordeste, and PEBotz. I really enjoy working with people on a daily basis and being part of a team. Because of this, I've been a college monitor for 2 semesters - Imperative and Functional Programming (2023.2) and Data Structures and Algorithms (2024.1). I've also been involved with LOVELACES (LÓgica de Vivência para ELAs na CESAR School), which aims to teach basic programming logic using Python to young women in high school and to inspire and motivate more women to pursue careers in IT.
+Hi! I'm a 7th-semester CS undergrad @ CESAR School. I'm a member of GARAGino, a research group that focuses on physical computing. In GARAGino, we create and design robots for local and national competitions, such as Robocore Experience at Campus Party Brasil, Campus Party Nordeste, and PEBotz. I really enjoy working with people on a daily basis and being part of a team. Because of this, I've been a college monitor for 2 semesters - Imperative and Functional Programming (2023.2) and Data Structures and Algorithms (2024.1). I've also been involved with LOVELACES (LÓgica de Vivência para ELAs na CESAR School), which aims to teach basic programming logic using Python to young women in high school and to inspire and motivate more women to pursue careers in IT.
 
 <br>
 <br>
